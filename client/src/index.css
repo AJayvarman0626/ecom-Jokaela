@@ -72,7 +72,20 @@
 
 
 }
-* {
-  font-family: 'Leckerli One', cursive !important;
+/* Apply Poppins font to the body */
+body {
+  font-family: 'Poppins', sans-serif;
 }
+
+/* Apply to specific elements */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
 
