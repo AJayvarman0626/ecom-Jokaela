@@ -16,4 +16,4 @@
 
 https://ecom-jolaela-1.onrender.com/
 ## Screenshots
-![screenshot](./assets/screen1.png)
+![screenshot](./client/src/assets/screen1.png)
