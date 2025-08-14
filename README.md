@@ -10,7 +10,7 @@
 - Cart & Checkout
 
 ## Tech Stack
-- React, Node.js, Express, MongoDB
+- React, Node.js, Express, MongoDB.
 
 ## Live Demo
 
