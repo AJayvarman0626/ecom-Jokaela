@@ -12,7 +12,7 @@
 ## Tech Stack
 - React, Node.js, Express, MongoDB.
 
-## Live Demo
+## Live Demoo
 
 https://ecom-jolaela-1.onrender.com/
 ## Screenshots
