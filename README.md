@@ -1,7 +1,7 @@
 <h1>You Can Create The Account On Jokela
 <br> And Explore The Features</h1>
 
-# Jokela - E-Commerce Website
+# Jokela - E-Commerce Website.
 
 ## Features
 - User Authentication (JWT)
